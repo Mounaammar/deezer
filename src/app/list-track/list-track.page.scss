@@ -1,0 +1,29 @@
+.border{
+    border-radius: 50%;
+    box-shadow: 3px 3px 2px 1px rgba(0, 0, 0, 0.11);;
+}
+ion-content{
+    --ion-background-color: #f9f8fa !important;
+ 
+}
+ion-card{
+    --ion-background-color: #292727 !important; 
+    ion-item, ion-icon{
+        color: white !important;
+        border-color: white !important;
+    }
+   
+}
+
+item-inner{
+        border-color: white !important;
+    }
+
+
+ion-back-button text{
+    margin-left: 20px;
+}
+audio{
+    width: 210px;
+    height: 40px;
+}
